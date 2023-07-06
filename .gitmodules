@@ -1,0 +1,3 @@
+[submodule "ROS-Map-Master"]
+	path = ROS
+	url = https://github.com/SuperSecureHuman/ROS-Map-Master.git
